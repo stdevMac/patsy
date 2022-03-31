@@ -6,8 +6,8 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/dave/patsy/vos"
 	"github.com/pkg/errors"
+	"github.com/stdevMac/patsy/vos"
 )
 
 // NewCache returns a new *Cache, allowing cached access to patsy utility
@@ -29,7 +29,7 @@ func NewCache(env vos.Env) *Cache {
 // depending on the cwdir results can vary, so we include the directory in the cache keys
 type keyWithDir struct {
 	key string
-	dir  string
+	dir string
 }
 
 // Cache supports patsy.Dir and patsy.Path, but cached so they can be used in

@@ -3,7 +3,7 @@
 package patsy
 
 //go:generate go get github.com/dave/rebecca/cmd/becca
-//go:generate becca -package=github.com/dave/patsy
+//go:generate becca -package=github.com/stdevMac/patsy
 
 import (
 	"go/build"
@@ -12,8 +12,8 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/dave/patsy/vos"
 	"github.com/pkg/errors"
+	"github.com/stdevMac/patsy/vos"
 )
 
 // Name returns the package name for a given path and src dir. Note that

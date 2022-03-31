@@ -10,8 +10,8 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/dave/patsy/vos"
 	"github.com/pkg/errors"
+	"github.com/stdevMac/patsy/vos"
 )
 
 // New creates a new temporary location, either for a go module or for a gopath root.

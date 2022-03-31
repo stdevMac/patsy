@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/dave/patsy.svg?branch=master)](https://travis-ci.org/dave/patsy) [![Go Report Card](https://goreportcard.com/badge/github.com/dave/patsy)](https://goreportcard.com/report/github.com/dave/patsy) [![codecov](https://codecov.io/gh/dave/patsy/branch/master/graph/badge.svg)](https://codecov.io/gh/dave/patsy)
+[![Build Status](https://travis-ci.org/stdevMac/patsy.svg?branch=master)](https://travis-ci.org/stdevMac/patsy) [![Go Report Card](https://goreportcard.com/badge/github.com/stdevMac/patsy)](https://goreportcard.com/report/github.com/stdevMac/patsy) [![codecov](https://codecov.io/gh/stdevMac/patsy/branch/master/graph/badge.svg)](https://codecov.io/gh/stdevMac/patsy)
 
 # Patsy
 
